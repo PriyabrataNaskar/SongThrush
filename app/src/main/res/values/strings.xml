@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Song Thrush</string>
+    <string name="GOOGLE_API_KEY">AIzaSyD8htKe7_tEVtIostqZBP1siGyQhJqPMLM</string>
+    <string name="next">Next</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>
