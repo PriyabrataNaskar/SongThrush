@@ -48,5 +48,7 @@
                 android:resource="@xml/file_paths" />
         </provider>
     </application>
-
+    <queries>
+        <package android:name="com.google.android.youtube" />
+    </queries>
 </manifest>
