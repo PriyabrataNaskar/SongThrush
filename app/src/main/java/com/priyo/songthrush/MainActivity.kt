@@ -11,8 +11,6 @@ import com.google.android.youtube.player.YouTubePlayer
 import com.google.android.youtube.player.YouTubePlayerView
 import com.priyo.songthrush.databinding.ActivityMainBinding
 
-const val YOUTUBE_VIDEO_ID = "Evfe8GEn33w"
-
 class MainActivity : YouTubeBaseActivity() {
     private val TAG = "YoutubeActivity"
 
